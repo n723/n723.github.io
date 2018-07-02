@@ -1,0 +1,22 @@
+{
+  "name": "vue",
+  "version": "1.0.0",
+  "description": "ey",
+  "main": "javascript.js",
+  "scripts": {
+    "test": "test1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Studiante1/Vueproject.git"
+  },
+  "keywords": [
+    "vuetest"
+  ],
+  "author": "test",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Studiante1/Vueproject/issues"
+  },
+  "homepage": "https://github.com/Studiante1/Vueproject#readme"
+}
